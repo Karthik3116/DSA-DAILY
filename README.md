@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
 ## String Matching
@@ -53,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
