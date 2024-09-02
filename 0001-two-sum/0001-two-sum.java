@@ -14,20 +14,34 @@ class Solution {
         //     }
         // }
 
+        // int []retval = new int[2];
+        // HashMap<Integer , Integer > answer = new HashMap<>();
+        // for(int i = 0 ; i < nums.length ; i++){
+
+        //     if(answer.containsKey(nums[i])){
+        //         retval[0] = answer.get(nums[i]);
+        //         retval[1] = i;
+        //         break;
+        //     }else{
+        //         answer.put(target-nums[i], i);
+        //     }
+        // }
+        // return retval;
+
+        HashMap<Integer,Integer> answer = new HashMap<>();
         int []retval = new int[2];
-        HashMap<Integer , Integer > answer = new HashMap<>();
-        for(int i = 0 ; i < nums.length ; i++){
+
+        for(int i = 0 ; i < nums.length; i++){
 
             if(answer.containsKey(nums[i])){
                 retval[0] = answer.get(nums[i]);
                 retval[1] = i;
                 break;
             }else{
-                answer.put(target-nums[i], i);
+                answer.put(target-nums[i],i);
             }
         }
         return retval;
-
         // return ans;
     }
 }
