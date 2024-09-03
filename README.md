@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Karthik3116/DSA-DAILY/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Karthik3116/DSA-DAILY/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
@@ -68,4 +69,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
