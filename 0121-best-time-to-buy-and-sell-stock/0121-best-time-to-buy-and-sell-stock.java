@@ -1,29 +1,37 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        // Edge case: if there are fewer than 2 prices, no profit is possible
-        if (prices.length < 2) {
-            return 0;
-        }
 
-        int min = prices[0]; // Initialize min to the first price
-        int max_profit = 0;  // Initialize max_profit to 0
 
-        // Iterate through the prices starting from the second element
-        for (int i = 1; i < prices.length; i++) {
-            // Calculate the profit if we sold on day i
-            int profit = prices[i] - min;
-            
-            // Update max_profit if the current profit is higher
-            if (profit > max_profit) {
+        // int max = 0;
+       
+        // for(int i = 0 ; i < prices.length ; i++){
+        //     for(int j = i+1 ; j < prices.length; j++){
+
+        //         int profit = prices[j] - prices[i];
+        //         if(max < profit){
+        //             max = profit;
+        //         }
+        //     }
+        // }
+
+        // if(max > 0){
+        //     return max;
+        // }else{
+        //     return 0;
+        // }
+
+        int min = prices[0];
+        int max_profit = -99999;
+        for(int i = 0 ; i < prices.length ; i++){
+            int profit = prices[i] - min ; 
+            if(max_profit < profit){
                 max_profit = profit;
             }
 
-            // Update min price if a new lower price is found
-            if (prices[i] < min) {
+            if(prices[i] < min){
                 min = prices[i];
             }
         }
-
         return max_profit;
     }
 }
