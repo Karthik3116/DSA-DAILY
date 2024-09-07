@@ -15,6 +15,10 @@ public:
         ListNode* dummy = new ListNode(-1);
         ListNode* current = dummy;
 
+        if (list1==NULL)
+        {return list2;}
+        else if (list2==NULL)
+        {return list1;}
         while(list1 != nullptr && list2 != nullptr){
             if(list1 -> val <= list2 -> val){
                 current -> next = new ListNode(list1 -> val);
