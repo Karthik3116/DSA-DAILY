@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
+| [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
