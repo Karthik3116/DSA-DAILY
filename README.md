@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Karthik3116/DSA-DAILY/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Karthik3116/DSA-DAILY/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0136-single-number) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Karthik3116/DSA-DAILY/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
