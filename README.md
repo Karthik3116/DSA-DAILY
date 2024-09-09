@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
 | [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
 ## Recursion
 |  |
@@ -97,4 +98,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
