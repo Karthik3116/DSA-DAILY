@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Karthik3116/DSA-DAILY/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Karthik3116/DSA-DAILY/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -99,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
