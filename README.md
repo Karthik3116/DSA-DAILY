@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Karthik3116/DSA-DAILY/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Karthik3116/DSA-DAILY/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0141-linked-list-cycle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
