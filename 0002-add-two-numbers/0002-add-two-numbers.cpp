@@ -12,35 +12,89 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 
-        
-        
-        ListNode* res = new ListNode();
-        ListNode* temp = res;
+        ListNode* result = new ListNode();
+        ListNode* current = result;
+
         int rem = 0;
+        
         while(l1 != nullptr || l2 != nullptr || rem){
-            
             int sum = 0;
-            if(l1!=NULL){
-                sum+=l1->val;
-                l1=l1->next;
+
+            if(l1 != nullptr){
+                sum += l1 -> val;
+                l1 = l1 -> next;
             }
-            if(l2!=NULL){
-                sum+=l2->val;
-                l2=l2->next;
+
+            if(l2 != nullptr){
+                sum += l2 -> val;
+                l2 = l2 -> next;
             }
 
             sum += rem;
+            rem = sum / 10;
 
-            rem = sum/10;
+            ListNode* node = new ListNode(sum % 10);
 
-            ListNode* node = new ListNode(sum%10);
-            temp ->  next = node;
-            temp = temp -> next;
+            current -> next = node;
+            current = current -> next;
 
 
+            
         }
 
-        return res->next;
-        
+        return result -> next;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  ListNode* res = new ListNode();
+//         ListNode* temp = res;
+//         int rem = 0;
+//         while(l1 != nullptr || l2 != nullptr || rem){
+            
+//             int sum = 0;
+//             if(l1!=NULL){
+//                 sum+=l1->val;
+//                 l1=l1->next;
+//             }
+//             if(l2!=NULL){
+//                 sum+=l2->val;
+//                 l2=l2->next;
+//             }
+
+//             sum += rem;
+
+//             rem = sum/10;
+
+//             ListNode* node = new ListNode(sum%10);
+//             temp ->  next = node;
+//             temp = temp -> next;
+
+
+//         }
+
+//         return res->next;
