@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Karthik3116/DSA-DAILY/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 ## String Matching
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -120,4 +122,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
