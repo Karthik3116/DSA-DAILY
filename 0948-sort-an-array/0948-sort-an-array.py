@@ -26,12 +26,11 @@
 #         self.quick(nums, 0, len(nums) - 1)
 #         return nums
 
-import numpy as np
-
 class Solution(object):
     def sortArray(self, nums):
         """
-        :type nums: np.ndarray
-        :rtype: np.ndarray
+        :type nums: List[int]
+        :rtype: List[int]
         """
-        return np.sort(nums)
+        nums.sort()
+        return nums
