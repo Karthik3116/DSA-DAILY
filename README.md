@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Karthik3116/DSA-DAILY/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
 | ------- |
