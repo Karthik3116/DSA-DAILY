@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Karthik3116/DSA-DAILY/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Karthik3116/DSA-DAILY/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Karthik3116/DSA-DAILY/tree/master/0238-product-of-array-except-self) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
 |  |
