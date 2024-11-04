@@ -7,18 +7,18 @@ class Solution {
             char []arr = one.toCharArray();
 
             Arrays.sort(arr);
-
-            if(mymap.containsKey(Arrays.toString(arr))){
+            String str = Arrays.toString(arr);
+            if(mymap.containsKey(str)){
                     
-                List<String> temp = new ArrayList<>(mymap.get(Arrays.toString(arr)));
+                List<String> temp = new ArrayList<>(mymap.get(str));
                 temp.add(one);
-                mymap.put(Arrays.toString(arr) ,temp );
+                mymap.put(str ,temp );
 
             }else{
 
                 List<String> temp = new ArrayList<>();
                 temp.add(one);
-                mymap.put(Arrays.toString(arr) ,temp );
+                mymap.put(str ,temp );
             }
         }
 
