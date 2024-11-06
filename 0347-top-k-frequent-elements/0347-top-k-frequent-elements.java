@@ -1,25 +1,28 @@
+
+// import java.util.TreeMap;
+
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
         
-        // Step 1: Count the frequency of each element
-        Map<Integer, Integer> frequencyMap = new HashMap<>();
-        for (int num : nums) {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+        HashMap<Integer , Integer> mymap  = new HashMap<>();
+
+        for(int num : nums){
+            mymap.put(num , mymap.getOrDefault(num , 0 ) + 1);
         }
 
-        // Step 2: Create a list of map entries and sort by frequency in descending order
-        List<Map.Entry<Integer, Integer>> entryList = new ArrayList<>(frequencyMap.entrySet());
-        entryList.sort((entry1, entry2) -> entry2.getValue() - entry1.getValue());
+        List<Map.Entry<Integer , Integer>> list = new ArrayList<>(mymap.entrySet());
+        list.sort((entry1, entry2) -> entry2.getValue() - entry1.getValue());
 
-        // Step 3: Extract the top k frequent elements
-        int[] ans = new int[k];
-        int count = 0;
-        for (Map.Entry<Integer, Integer> entry : entryList) {
-            if (count < k) {
-                ans[count] = entry.getKey();
-                count++;
+        int i = 0; 
+        int []ans = new int[k];
+        for(Map.Entry<Integer , Integer> entry : list){
+            if(i < k){
+                ans[i] = entry.getKey();
+                i++;
             }
         }
+
         return ans;
+        
     }
 }
