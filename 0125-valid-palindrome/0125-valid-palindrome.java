@@ -1,25 +1,46 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String small_string = s.toLowerCase();
-        String new_string = "";
+        // String st = s.replaceAll("[^a-zA-Z0-9]" , "").toLowerCase();
+        
+        // int right = 0 ; 
+        // int left = st.length()-1;
 
-        for(int i = 0 ; i < s.length() ; i++){
-            if(Character.isLetterOrDigit(small_string.charAt(i))){
-                new_string += small_string.charAt(i);
+        // while(right < left){
+
+        //     if( st.charAt(right) != st.charAt(left)){
+        //         return false;
+        //     }
+        //     right++;
+        //     left--;
+        // }
+
+        // return true;
+
+        int l = 0  , r = s.length() - 1 ;
+
+        while(l < r){
+            while (l < r && !alphaNum(s.charAt(l))) {
+                l++;
             }
+
+            while(r > l && !alphaNum(s.charAt(r))){
+                r--;
+            }
+
+            if(! (Character.toLowerCase(s.charAt(l)) == (Character.toLowerCase(s.charAt(r))))){
+                return false;
+            }
+            l++;r--;
+            
         }
 
-        int last = new_string.length()-1;
-        boolean is_palindrome = true;
-        for(int i = 0 ; i < new_string.length() ; i++){
-            if(new_string.charAt(i) == new_string.charAt(last)){
-                last --;
-            }else{
-                is_palindrome = false;
-                break;
-            }
-        }
+        return true;
+    }
 
-        return is_palindrome;
+    public boolean alphaNum(char c){
+        return((c >= 'A' && c <= 'Z') ||
+                (c >= 'a' && c <= 'z')||
+                (c >= '0' && c <= '9')
+                 );
     }
 }
