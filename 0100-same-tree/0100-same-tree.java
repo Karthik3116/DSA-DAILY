@@ -13,29 +13,44 @@
  *     }
  * }
  */
-class Solution {
-    public boolean isSameTree(TreeNode p, TreeNode q) {
-        Queue<TreeNode> qu = new LinkedList<>();
-        qu.add(p);
-        qu.add(q);
+// class Solution {
+//     public boolean isSameTree(TreeNode p, TreeNode q) {
+//         Queue<TreeNode> qu = new LinkedList<>();
+//         qu.add(p);
+//         qu.add(q);
         
 
-        while(!qu.isEmpty()){
-            TreeNode node1 = qu.poll();
-            TreeNode node2 = qu.poll();
+//         while(!qu.isEmpty()){
+//             TreeNode node1 = qu.poll();
+//             TreeNode node2 = qu.poll();
             
-            if(node1 == null && node2 == null) continue;
+//             if(node1 == null && node2 == null) continue;
 
-            if(node1 == null || node2 == null || node1.val != node2.val) return false;
+//             if(node1 == null || node2 == null || node1.val != node2.val) return false;
 
-            qu.add(node1.left);
-            qu.add(node2.left);
-            qu.add(node1.right);
-            qu.add(node2.right);
+//             qu.add(node1.left);
+//             qu.add(node2.left);
+//             qu.add(node1.right);
+//             qu.add(node2.right);
             
             
+//         }
+
+//         return true;
+//     }
+// }
+
+
+class Solution {
+    public boolean isSameTree(TreeNode p, TreeNode q) {
+        if(p == null && q == null){
+            return true;
         }
 
-        return true;
+        if(p == null || q == null || (p.val != q.val)){
+            return false;
+        }
+
+        return isSameTree(p.left ,q.left) && isSameTree(p.right , q.right );
     }
 }
