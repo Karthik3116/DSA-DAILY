@@ -190,14 +190,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
+| [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
