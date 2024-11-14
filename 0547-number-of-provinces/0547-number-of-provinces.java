@@ -8,6 +8,28 @@ class Solution {
             }
         }
     }
+
+
+
+    public void bfs(ArrayList<ArrayList<Integer>> list, boolean[] visited , int node){
+
+        Queue<Integer> q = new LinkedList<>();
+        q.add(node);
+        visited[node] = true;
+
+        while(!q.isEmpty()){
+            int current = q.poll();
+
+            for(int neghibour : list.get(current)){
+                if(!visited[neghibour]){
+                    q.add(neghibour);
+                    visited[neghibour] = true;
+                }
+            }
+
+        }
+
+    }
     public int findCircleNum(int[][] isConnected) {
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
 
@@ -28,7 +50,7 @@ class Solution {
         for(int i = 0 ; i < isConnected.length ; i++){
             if(!visited[i]){
                 count += 1;
-                dfs(list , visited , i);
+                bfs(list , visited , i);
             }
         }
 
