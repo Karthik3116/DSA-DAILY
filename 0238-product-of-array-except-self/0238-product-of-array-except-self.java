@@ -47,8 +47,8 @@ class Solution {
         // postfix
         int postfix = 1;
         for(int i = nums.length - 1 ; i >= 0 ; i--){
-            ans[i] = postfix * ans[i];
-            postfix =  nums[i] * postfix;
+            ans[i] *= postfix ;
+            postfix *=  nums[i] ;
         }
 
         return ans;
