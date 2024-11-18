@@ -3,7 +3,6 @@ class Solution {
         
         Stack<Character> st = new Stack<>();
 
-        String[]c = s.split("");
         
        
         
