@@ -4,7 +4,9 @@ class Solution {
         Stack<Character> st = new Stack<>();
 
         
-       
+       if(s.length()%2==1){
+            return false;
+        }
         
         for(char bracket : s.toCharArray()){
             if(bracket == '[' || bracket == '(' || bracket == '{'){
