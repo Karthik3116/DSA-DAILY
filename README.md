@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
+| [1755-defuse-the-bomb](https://github.com/Karthik3116/DSA-DAILY/tree/master/1755-defuse-the-bomb) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Karthik3116/DSA-DAILY/tree/master/3582-find-indices-of-stable-mountains) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/Karthik3116/DSA-DAILY/tree/master/1755-defuse-the-bomb) |
 ## Counting
 |  |
 | ------- |
