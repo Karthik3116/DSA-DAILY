@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Karthik3116/DSA-DAILY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
+| [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 ## Graph
 |  |
 | ------- |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
