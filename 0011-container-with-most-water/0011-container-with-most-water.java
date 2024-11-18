@@ -4,6 +4,7 @@ class Solution {
         int area = 0;
         
         int l = 0, r = height.length - 1;
+   
         
         while(l < r){
             int x = r - l;
@@ -13,10 +14,12 @@ class Solution {
             
 
             area = Math.max(area , x*y);
-            if(height[r] <= height[l]){
+            
+            while(l <= r && height[r] <= y){
+                
                 r--;
             }
-            else if (height[r] > height[l]){
+            while(l <= r && height[l] <= y){
                 l++;
             }
         }
