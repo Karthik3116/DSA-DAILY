@@ -1,24 +1,33 @@
 class Solution {
     public boolean isValid(String s) {
+        
         Stack<Character> st = new Stack<>();
-        HashMap<Character , Character> opening = new HashMap<>();
-        opening.put(')','(');
-        opening.put(']','[');
-        opening.put('}','{');
-    
-            
-        for(int i = 0 ; i < s.length() ; i++){
-            if(s.charAt(i) == '(' || s.charAt(i) == '[' || s.charAt(i)== '{'){
-                st.push(s.charAt(i));
-            }else{
-                if(st.isEmpty() || opening.get(s.charAt(i)) != st.peek()){
+
+        String[]c = s.split("");
+        
+       
+        
+        for(char bracket : s.toCharArray()){
+            if(bracket == '[' || bracket == '(' || bracket == '{'){
+                System.out.println("pushed" + bracket);
+                st.push(bracket);
+            }
+            else{
+                if(st.isEmpty()){
+                    // System.out.println("ohooo1");
                     return false;
                 }
-                
-                st.pop();
+                else if((bracket == ']' && st.peek() == '[') || (bracket == '}' && st.peek() == '{') || (bracket == ')' && st.peek() == '(')){
+                    System.out.println("popped" + st.peek());
+                    st.pop();
+                }
+                else{
+                    return false;
+                }
             }
         }
+
         return st.isEmpty();
-       
+
     }
 }
