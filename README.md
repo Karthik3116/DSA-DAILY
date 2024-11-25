@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2089-maximum-matrix-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
