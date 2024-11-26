@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
+| [3189-find-champion-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/3189-find-champion-ii) |
 ## Matrix
 |  |
 | ------- |
