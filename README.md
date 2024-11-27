@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Karthik3116/DSA-DAILY/tree/master/0242-valid-anagram) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1250-longest-common-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1250-longest-common-subsequence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Karthik3116/DSA-DAILY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String Matching
 |  |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
