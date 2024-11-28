@@ -1,15 +1,14 @@
 class Solution {
     public int f( int a , int b,String one , String two , HashMap<String, Integer> map){
+        // System.out.println(map);
         if(a < 0 || b < 0){
             return 0;
         }
 
-        String key = a + "," + b; // Use a comma to separate a and b in the key
+        String key = a + "," + b;
         if (map.containsKey(key)) {
-            return map.get(key); // Return the result from the map if already computed
+            return map.get(key); 
         }
-
-        
 
         if(one.charAt(a) == (two.charAt(b))){
             int result = 1 + f(a - 1, b - 1, one, two, map);
@@ -17,10 +16,8 @@ class Solution {
             return result;
 
         }
-
-
         int result = Math.max(f(a - 1, b, one, two, map), f(a, b - 1, one, two, map));
-        map.put(key, result); // Store the result in the map
+        map.put(key, result);
         return result;
 
     }
