@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Karthik3116/DSA-DAILY/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Karthik3116/DSA-DAILY/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Karthik3116/DSA-DAILY/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Karthik3116/DSA-DAILY/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0202-happy-number) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Karthik3116/DSA-DAILY/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Karthik3116/DSA-DAILY/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Karthik3116/DSA-DAILY/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
 ## Hash Table
