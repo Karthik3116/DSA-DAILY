@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
 | [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -311,4 +313,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
