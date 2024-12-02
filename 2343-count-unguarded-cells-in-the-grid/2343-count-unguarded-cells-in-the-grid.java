@@ -45,7 +45,7 @@ class Solution {
         }
 
         for (int[] wall : walls) {
-            grid[wall[0]][wall[1]] = "G";
+            grid[wall[0]][wall[1]] = "W";
         }
 
 
