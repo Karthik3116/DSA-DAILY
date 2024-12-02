@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1250-longest-common-subsequence) |
+| [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Karthik3116/DSA-DAILY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## String Matching
 |  |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
+| [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Karthik3116/DSA-DAILY/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0179-largest-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2089-maximum-matrix-sum) |
 ## Divide and Conquer
 |  |
