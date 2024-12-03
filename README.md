@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -280,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
