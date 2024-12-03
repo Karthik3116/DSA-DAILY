@@ -1,6 +1,6 @@
-// class Solution {
-//     public String addSpaces(String s, int[] spaces) {
-//         StringBuilder sb = new StringBuilder(s);
+// ans :- 1
+
+//  StringBuilder sb = new StringBuilder(s);
 
 //         int count = 0;
 //         for(int space : spaces){
@@ -9,22 +9,22 @@
 
 
 //         return sb.toString();
-//     }
-// }
 
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-        StringBuilder sb=new StringBuilder();
+       StringBuilder sb = new StringBuilder();
+       int count = 0;
 
-        sb.append(s.substring(0,spaces[0]));
-        int i=1;
-        for(; i<spaces.length; i++){
+       for(int i = 0 ; i < s.length() ; i++){
+        if(count < spaces.length && spaces[count] == i){
             sb.append(" ");
-            sb.append(s.substring(spaces[i-1],spaces[i]));            
+            count++;
         }
-        sb.append(" ");
-        sb.append(s.substring(spaces[i-1])); 
+        sb.append(s.charAt(i));
 
-        return sb.toString();
+
+       }
+
+       return sb.toString();
     }
 }
