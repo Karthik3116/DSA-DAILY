@@ -10,21 +10,41 @@
 
 //         return sb.toString();
 
+
+// ans-2 beats 40%
+// StringBuilder sb = new StringBuilder();
+//        int count = 0;
+
+//        for(int i = 0 ; i < s.length() ; i++){
+//         if(count < spaces.length && spaces[count] == i){
+//             sb.append(" ");
+//             count++;
+//         }
+//         sb.append(s.charAt(i));
+//        }
+//        return sb.toString();
+
+
+
+
+
 class Solution {
     public String addSpaces(String s, int[] spaces) {
-       StringBuilder sb = new StringBuilder();
-       int count = 0;
+       
+       int m = s.length();
+       int n = spaces.length;
 
-       for(int i = 0 ; i < s.length() ; i++){
-        if(count < spaces.length && spaces[count] == i){
-            sb.append(" ");
-            count++;
+       char[]chararr = new char[m+n];
+       int i = 0 , j = 0;
+       for(char c : s.toCharArray()){
+        if(j < n && spaces[j] == i){
+            chararr[j+i] = ' ';
+            j++;
         }
-        sb.append(s.charAt(i));
-
-
+        chararr[j+i] = c;
+        i++;
        }
 
-       return sb.toString();
+       return new String(chararr);
     }
 }
