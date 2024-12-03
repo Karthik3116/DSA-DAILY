@@ -8,7 +8,12 @@ class Solution {
             return kthGrammar(n-1,k);
         }
         else{
-           return 1 -  kthGrammar(n-1,k-mid);
+            int ans = kthGrammar(n-1,k-mid);
+            if(ans == 1){
+                return 0;
+            }
+            return 1;
         }
     }
+
 }
