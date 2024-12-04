@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
+| [3625-stone-removal-game](https://github.com/Karthik3116/DSA-DAILY/tree/master/3625-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3625-stone-removal-game](https://github.com/Karthik3116/DSA-DAILY/tree/master/3625-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
