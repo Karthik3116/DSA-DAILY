@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0102-binary-tree-level-order-traversal) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0102-binary-tree-level-order-traversal) |
