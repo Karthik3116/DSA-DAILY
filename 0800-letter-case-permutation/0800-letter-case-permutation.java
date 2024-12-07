@@ -17,7 +17,6 @@ class Solution {
 
         solve(input, output + currentChar, ans, index + 1);
 
-        // Include the character in its opposite case
         if (Character.isUpperCase(currentChar)) {
             solve(input, output + Character.toLowerCase(currentChar), ans, index + 1);
         } else {
