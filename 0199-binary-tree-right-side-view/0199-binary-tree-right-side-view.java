@@ -14,38 +14,23 @@
  * }
  */
 class Solution {
+
+    public List<Integer> dfs(TreeNode root , List<Integer> ans, int level){
+        if(root == null){
+            return ans;
+        }
+        if(level == ans.size()){
+            ans.add(root.val);
+        }
+        dfs(root.right , ans , level+1);
+        dfs(root.left , ans , level+1);
+        return ans;
+    }
+
     public List<Integer> rightSideView(TreeNode root) {
         
         List<Integer> ans = new ArrayList<>();
 
-        if(root == null){return ans;};
-
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-
-            int level_size = q.size();
-            int rnode = 0;
-
-            for(int i = 0 ; i < level_size ; i++){
-                TreeNode curr_node = q.poll();
-                if(i == 0){rnode = curr_node.val;};
-
-                if(curr_node.right != null){
-                    q.add(curr_node.right);
-
-                }
-
-                if(curr_node.left != null){
-                    q.add(curr_node.left);
-                }
-                
-            }
-
-            ans.add(rnode);
-
-        }
-
-        return ans;
+        return dfs(root,ans,0);
     }
 }
