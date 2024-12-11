@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
