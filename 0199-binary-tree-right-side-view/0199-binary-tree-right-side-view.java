@@ -25,11 +25,11 @@ class Solution {
         while(!q.isEmpty()){
 
             int level_size = q.size();
-            int[] nodes = new int[level_size];
+            int rnode = 0;
 
             for(int i = 0 ; i < level_size ; i++){
                 TreeNode curr_node = q.poll();
-                nodes[i] = curr_node.val;
+                if(i == 0){rnode = curr_node.val;};
 
                 if(curr_node.right != null){
                     q.add(curr_node.right);
@@ -42,7 +42,7 @@ class Solution {
                 
             }
 
-            ans.add(nodes[0]);
+            ans.add(rnode);
 
         }
 
