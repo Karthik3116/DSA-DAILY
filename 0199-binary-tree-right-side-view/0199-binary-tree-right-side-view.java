@@ -33,6 +33,7 @@ class Solution {
 
                 if(curr_node.right != null){
                     q.add(curr_node.right);
+
                 }
 
                 if(curr_node.left != null){
