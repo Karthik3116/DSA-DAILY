@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Karthik3116/DSA-DAILY/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3188-find-champion-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3188-find-champion-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Karthik3116/DSA-DAILY/tree/master/3582-find-indices-of-stable-mountains) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1250-longest-common-subsequence) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Karthik3116/DSA-DAILY/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
