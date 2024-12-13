@@ -1,27 +1,17 @@
 class Solution {
-
-    public List<List<Integer>> gen(int vec[] , int n , int size , int[]curr, List<List<Integer>>ans ){
-        if(n == size ){
-            List<Integer> temp = new ArrayList<>();
-            for(int num : vec){
-                if(num != -99){
-                    temp.add(num);
-                }
-            }
-            ans.add(temp);
+    public List<List<Integer>> solve(int[] input , List<Integer> output , int curr_index , List<List<Integer>> ans){
+        if(curr_index == input.length){
+            ans.add(new ArrayList<>(output));
             return ans;
         }
-        vec[size - 1] = -99;
-        gen(vec , n  , size - 1 , curr , ans);
-        vec[size - 1] = curr[size-1];
-        gen(vec , n  , size - 1, curr , ans);
+        output.add(input[curr_index]);
+        solve(input , output , curr_index + 1, ans);
+        output.remove(output.size()-1);
+        solve(input , output , curr_index + 1, ans);
         return ans;
-         
     }
-
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        ans = gen(new int[nums.length] , 0 , nums.length , nums , ans);
-        return ans;
+        
+        return solve(nums , new ArrayList<Integer>() , 0 ,new  ArrayList<List<Integer>>());
     }
 }
