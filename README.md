@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Karthik3116/DSA-DAILY/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Karthik3116/DSA-DAILY/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Karthik3116/DSA-DAILY/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Karthik3116/DSA-DAILY/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Karthik3116/DSA-DAILY/tree/master/0078-subsets) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Karthik3116/DSA-DAILY/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Karthik3116/DSA-DAILY/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/Karthik3116/DSA-DAILY/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
