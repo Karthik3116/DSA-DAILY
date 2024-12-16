@@ -2,6 +2,7 @@ class Solution {
     public List<List<Integer>> solve(int[] nums , boolean[] visited , List<List<Integer>> ans , List<Integer> ds){
         if(ds.size() == nums.length){
             ans.add(new ArrayList(ds));
+            return ans;
         }
 
         for(int i = 0 ; i < nums.length ; i++){
