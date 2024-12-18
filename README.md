@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik3116/DSA-DAILY/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Karthik3116/DSA-DAILY/tree/master/1755-defuse-the-bomb) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik3116/DSA-DAILY/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik3116/DSA-DAILY/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Backtracking
 |  |
 | ------- |
