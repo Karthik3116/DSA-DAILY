@@ -401,4 +401,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Karthik3116/DSA-DAILY/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/Karthik3116/DSA-DAILY/tree/master/0800-letter-case-permutation) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Karthik3116/DSA-DAILY/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
