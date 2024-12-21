@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1250-longest-common-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1250-longest-common-subsequence) |
+| [1970-sorting-the-sentence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Karthik3116/DSA-DAILY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Karthik3116/DSA-DAILY/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
+| [1970-sorting-the-sentence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1970-sorting-the-sentence) |
 ## Stack
 |  |
 | ------- |
