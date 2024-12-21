@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Karthik3116/DSA-DAILY/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Karthik3116/DSA-DAILY/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/Karthik3116/DSA-DAILY/tree/master/0800-letter-case-permutation) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/Karthik3116/DSA-DAILY/tree/master/1007-numbers-with-same-consecutive-differences) |
 ## Database
 |  |
 | ------- |
