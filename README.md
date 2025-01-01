@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Karthik3116/DSA-DAILY/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Karthik3116/DSA-DAILY/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
