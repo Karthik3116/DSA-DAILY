@@ -58,10 +58,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Karthik3116/DSA-DAILY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Karthik3116/DSA-DAILY/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Karthik3116/DSA-DAILY/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3188-find-champion-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3188-find-champion-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Karthik3116/DSA-DAILY/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
@@ -400,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -427,4 +431,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Karthik3116/DSA-DAILY/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Karthik3116/DSA-DAILY/tree/master/1908-recyclable-and-low-fat-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
