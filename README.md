@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1331-path-with-maximum-gold](https://github.com/Karthik3116/DSA-DAILY/tree/master/1331-path-with-maximum-gold) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik3116/DSA-DAILY/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Karthik3116/DSA-DAILY/tree/master/1755-defuse-the-bomb) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1331-path-with-maximum-gold](https://github.com/Karthik3116/DSA-DAILY/tree/master/1331-path-with-maximum-gold) |
 | [2089-maximum-matrix-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3188-find-champion-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3188-find-champion-i) |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0216-combination-sum-iii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0216-combination-sum-iii) |
 | [0800-letter-case-permutation](https://github.com/Karthik3116/DSA-DAILY/tree/master/0800-letter-case-permutation) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/Karthik3116/DSA-DAILY/tree/master/1007-numbers-with-same-consecutive-differences) |
+| [1331-path-with-maximum-gold](https://github.com/Karthik3116/DSA-DAILY/tree/master/1331-path-with-maximum-gold) |
 ## Database
 |  |
 | ------- |
