@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Karthik3116/DSA-DAILY/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Karthik3116/DSA-DAILY/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Karthik3116/DSA-DAILY/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Karthik3116/DSA-DAILY/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Karthik3116/DSA-DAILY/tree/master/0389-find-the-difference) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -375,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Karthik3116/DSA-DAILY/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
