@@ -322,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Memoization
 |  |
