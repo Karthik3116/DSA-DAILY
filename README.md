@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Karthik3116/DSA-DAILY/tree/master/0647-palindromic-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Karthik3116/DSA-DAILY/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Karthik3116/DSA-DAILY/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3188-find-champion-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3188-find-champion-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Karthik3116/DSA-DAILY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
