@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Karthik3116/DSA-DAILY/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3188-find-champion-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3188-find-champion-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Karthik3116/DSA-DAILY/tree/master/3582-find-indices-of-stable-mountains) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/3227-find-missing-and-repeated-values) |
 | [3625-stone-removal-game](https://github.com/Karthik3116/DSA-DAILY/tree/master/3625-stone-removal-game) |
 ## Recursion
 |  |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Karthik3116/DSA-DAILY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3188-find-champion-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3188-find-champion-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search Tree
 |  |
 | ------- |
