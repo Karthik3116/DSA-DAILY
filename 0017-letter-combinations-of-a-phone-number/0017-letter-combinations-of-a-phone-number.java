@@ -1,41 +1,34 @@
 class Solution {
+    public void solve(Map<Character , String> map , StringBuilder output , int idx , String digits, List<String> ans){
 
-    
-    public void solve(Map<String ,String> map, StringBuilder sb , int index , String digits ,List<String> result){
-        if(digits.length() == index){
-            result.add(sb.toString());
+        if(idx == digits.length()){
+            ans.add(output.toString());
             return;
         }
 
-        char curr_digit = digits.charAt(index);
-        String letters = map.get(Character.toString(curr_digit));
-
-        for(char letter : letters.toCharArray() ){
-            sb.append(letter);
-            solve(map , sb , index + 1, digits , result);
-            sb.deleteCharAt(sb.length() - 1);
-        } 
+        for(char letter : map.get(digits.charAt(idx)).toCharArray()){
+            output.append(letter);
+            solve(map , output , idx +1 , digits , ans);
+            output.deleteCharAt(output.length() - 1);
+        }
     }
     public List<String> letterCombinations(String digits) {
-        if (digits == null || digits.isEmpty()) {
-            return new ArrayList<>();
-        }
-        Map<String, String> phonePad = new HashMap<>();
-        phonePad.put("2", "abc");
-        phonePad.put("3", "def");
-        phonePad.put("4", "ghi");
-        phonePad.put("5", "jkl");
-        phonePad.put("6", "mno");
-        phonePad.put("7", "pqrs");
-        phonePad.put("8", "tuv");
-        phonePad.put("9", "wxyz");
+        
+        List<String> ans = new ArrayList<>();
+        if(digits.length() == 0){return ans;}
+        Map<Character , String> map = new HashMap<>();
+        map.put('2' , "abc");
+        map.put('3' , "def");
+        map.put('4' , "ghi");
+        map.put('5' , "jkl");
+        map.put('6' , "mno");
+        map.put('7' , "pqrs");
+        map.put('8' , "tuv");
+        map.put('9' , "wxyz");
+        
 
+        solve(map , new StringBuilder() , 0 , digits , ans);
 
-
-        StringBuilder sb = new StringBuilder();
-        List<String> result = new ArrayList<>();
-
-        solve(phonePad , sb , 0 , digits , result);
-        return result;
+        return ans;
     }
 }
