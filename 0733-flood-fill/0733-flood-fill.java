@@ -19,12 +19,6 @@ class Solution {
         Queue<Pair>q = new LinkedList<>();
         boolean[][]visited = new boolean[m][n];
 
-        int[][] ans = new int[m][n];
-
-        for (int i = 0; i < image.length; i++) {
-            System.arraycopy(image[i], 0, ans[i], 0, image[0].length);
-        }
-
 
         q.add(new Pair(sr,sc));
         visited[sr][sc] = true;
@@ -39,7 +33,7 @@ class Solution {
             int row = node.first;
             int col = node.second;
 
-            ans[row][col] = color;
+            image[row][col] = color;
 
             for(int k = 0 ; k < 4 ; k++){
                 int nrow = row + rowdir[k];
@@ -55,7 +49,7 @@ class Solution {
         }
 
 
-        return ans;
+        return image;
 
 
 
