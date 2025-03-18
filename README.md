@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/Karthik3116/DSA-DAILY/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Karthik3116/DSA-DAILY/tree/master/0647-palindromic-substrings) |
+| [0782-jewels-and-stones](https://github.com/Karthik3116/DSA-DAILY/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Karthik3116/DSA-DAILY/tree/master/0800-letter-case-permutation) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Karthik3116/DSA-DAILY/tree/master/0389-find-the-difference) |
+| [0782-jewels-and-stones](https://github.com/Karthik3116/DSA-DAILY/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
