@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/1005-univalued-binary-tree) |
 ## Union Find
 |  |
@@ -439,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
