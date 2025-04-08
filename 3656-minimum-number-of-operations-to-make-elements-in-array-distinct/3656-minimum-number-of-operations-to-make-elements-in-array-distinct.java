@@ -26,7 +26,7 @@ class Solution {
             }
         }
         
-        System.out.println(operations);
+        
 
         return operations;
     }
