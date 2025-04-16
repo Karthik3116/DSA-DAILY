@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Karthik3116/DSA-DAILY/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1331-path-with-maximum-gold](https://github.com/Karthik3116/DSA-DAILY/tree/master/1331-path-with-maximum-gold) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik3116/DSA-DAILY/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Karthik3116/DSA-DAILY/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Karthik3116/DSA-DAILY/tree/master/1755-defuse-the-bomb) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0371-sum-of-two-integers](https://github.com/Karthik3116/DSA-DAILY/tree/master/0371-sum-of-two-integers) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Karthik3116/DSA-DAILY/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Karthik3116/DSA-DAILY/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Karthik3116/DSA-DAILY/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Karthik3116/DSA-DAILY/tree/master/1642-water-bottles) |
