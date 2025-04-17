@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Karthik3116/DSA-DAILY/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Karthik3116/DSA-DAILY/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Karthik3116/DSA-DAILY/tree/master/3582-find-indices-of-stable-mountains) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Karthik3116/DSA-DAILY/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0179-largest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2089-maximum-matrix-sum) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Karthik3116/DSA-DAILY/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Divide and Conquer
 |  |
 | ------- |
