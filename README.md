@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0782-jewels-and-stones](https://github.com/Karthik3116/DSA-DAILY/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/Karthik3116/DSA-DAILY/tree/master/0800-letter-case-permutation) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
+| [0878-shifting-letters](https://github.com/Karthik3116/DSA-DAILY/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/Karthik3116/DSA-DAILY/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1250-longest-common-subsequence) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
+| [0878-shifting-letters](https://github.com/Karthik3116/DSA-DAILY/tree/master/0878-shifting-letters) |
 | [0948-sort-an-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Karthik3116/DSA-DAILY/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Karthik3116/DSA-DAILY/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Karthik3116/DSA-DAILY/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
+| [0878-shifting-letters](https://github.com/Karthik3116/DSA-DAILY/tree/master/0878-shifting-letters) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
