@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Karthik3116/DSA-DAILY/tree/master/0377-combination-sum-iv) |
+| [0560-subarray-sum-equals-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Karthik3116/DSA-DAILY/tree/master/0739-daily-temperatures) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Karthik3116/DSA-DAILY/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Karthik3116/DSA-DAILY/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/Karthik3116/DSA-DAILY/tree/master/0837-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Karthik3116/DSA-DAILY/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Karthik3116/DSA-DAILY/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Dynamic Programming
