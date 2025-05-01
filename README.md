@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Karthik3116/DSA-DAILY/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Karthik3116/DSA-DAILY/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Karthik3116/DSA-DAILY/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Karthik3116/DSA-DAILY/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Karthik3116/DSA-DAILY/tree/master/1137-height-checker) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Karthik3116/DSA-DAILY/tree/master/1970-sorting-the-sentence) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0878-shifting-letters](https://github.com/Karthik3116/DSA-DAILY/tree/master/0878-shifting-letters) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Karthik3116/DSA-DAILY/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Karthik3116/DSA-DAILY/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -315,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0179-largest-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Karthik3116/DSA-DAILY/tree/master/2032-largest-odd-number-in-string) |
 | [2089-maximum-matrix-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2089-maximum-matrix-sum) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Karthik3116/DSA-DAILY/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Karthik3116/DSA-DAILY/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Divide and Conquer
 |  |
