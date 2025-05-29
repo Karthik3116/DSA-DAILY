@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Karthik3116/DSA-DAILY/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Karthik3116/DSA-DAILY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Karthik3116/DSA-DAILY/tree/master/0217-contains-duplicate) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Karthik3116/DSA-DAILY/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Karthik3116/DSA-DAILY/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Karthik3116/DSA-DAILY/tree/master/0647-palindromic-substrings) |
