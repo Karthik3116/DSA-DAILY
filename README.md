@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/Karthik3116/DSA-DAILY/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Karthik3116/DSA-DAILY/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Karthik3116/DSA-DAILY/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Karthik3116/DSA-DAILY/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Karthik3116/DSA-DAILY/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Karthik3116/DSA-DAILY/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0202-happy-number) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Karthik3116/DSA-DAILY/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Karthik3116/DSA-DAILY/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Karthik3116/DSA-DAILY/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/Karthik3116/DSA-DAILY/tree/master/0377-combination-sum-iv) |
@@ -530,4 +532,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0210-course-schedule-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Karthik3116/DSA-DAILY/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
