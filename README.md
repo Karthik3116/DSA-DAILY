@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Karthik3116/DSA-DAILY/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Karthik3116/DSA-DAILY/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Karthik3116/DSA-DAILY/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Karthik3116/DSA-DAILY/tree/master/0377-combination-sum-iv) |
 | [0560-subarray-sum-equals-k](https://github.com/Karthik3116/DSA-DAILY/tree/master/0560-subarray-sum-equals-k) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Karthik3116/DSA-DAILY/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Karthik3116/DSA-DAILY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Karthik3116/DSA-DAILY/tree/master/0198-house-robber) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/Karthik3116/DSA-DAILY/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Karthik3116/DSA-DAILY/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Karthik3116/DSA-DAILY/tree/master/0647-palindromic-substrings) |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Karthik3116/DSA-DAILY/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Karthik3116/DSA-DAILY/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/Karthik3116/DSA-DAILY/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Karthik3116/DSA-DAILY/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Karthik3116/DSA-DAILY/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -461,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/Karthik3116/DSA-DAILY/tree/master/0547-number-of-provinces) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Karthik3116/DSA-DAILY/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [3189-find-champion-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/3189-find-champion-ii) |
@@ -468,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Karthik3116/DSA-DAILY/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/Karthik3116/DSA-DAILY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Karthik3116/DSA-DAILY/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/Karthik3116/DSA-DAILY/tree/master/0787-sliding-puzzle) |
@@ -486,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/Karthik3116/DSA-DAILY/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -532,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Karthik3116/DSA-DAILY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Karthik3116/DSA-DAILY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Combinatorics
 |  |
 | ------- |
